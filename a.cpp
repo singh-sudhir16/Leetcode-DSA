@@ -34,5 +34,8 @@ int main() {
         mp[nums2[i]] = res;
     }
     vector<int> res;
+    for (int x : nums1) {
+        res.push_back(mp[x]);
+    }
     return 0;
 }

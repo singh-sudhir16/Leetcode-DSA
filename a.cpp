@@ -42,5 +42,6 @@ int main() {
         cout << res[i] << " ";
     }
     cout << endl;
+    // Example output: 3 -1 -1
     return 0;
 }

@@ -22,5 +22,6 @@ int main() {
     // Example usage of the provided code
     vector<int> nums1 = {4, 1, 2};
     vector<int> nums2 = {1, 3, 4, 2};
+    unordered_map<int, int> mp; // to store the answers for each element
     return 0;
 }

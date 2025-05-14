@@ -38,5 +38,8 @@ int main() {
         res.push_back(mp[x]);
     }
     // Output the result
+    for (int i = 0; i < res.size(); i++) {
+        cout << res[i] << " ";
+    }
     return 0;
 }

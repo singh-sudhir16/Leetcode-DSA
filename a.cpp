@@ -21,5 +21,6 @@ int main() {
     // Your code here
     // Example usage of the provided code
     vector<int> nums1 = {4, 1, 2};
+    vector<int> nums2 = {1, 3, 4, 2};
     return 0;
 }

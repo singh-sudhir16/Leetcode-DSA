@@ -37,5 +37,6 @@ int main() {
     for (int x : nums1) {
         res.push_back(mp[x]);
     }
+    // Output the result
     return 0;
 }

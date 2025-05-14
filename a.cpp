@@ -24,6 +24,6 @@ int main() {
     vector<int> nums2 = {1, 3, 4, 2};
     unordered_map<int, int> mp; // to store the answers for each element
     stack<int> st;
-    
+    int n = nums2.size();
     return 0;
 }

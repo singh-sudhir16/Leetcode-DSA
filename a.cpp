@@ -19,6 +19,7 @@ int main() {
     fast_io;
 
     // Your code here
-
+    // Example usage of the provided code
+    vector<int> nums1 = {4, 1, 2};
     return 0;
 }
